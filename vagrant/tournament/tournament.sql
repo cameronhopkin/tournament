@@ -33,4 +33,4 @@ SELECT p.player_id AS id, p.player_name AS name,
 (SELECT count(*) FROM match WHERE p.player_id in (winner, loser)) as matches
 FROM player p
 GROUP BY p.player_id
-ORDER BY won DESC;
+ORDER BY wins DESC;
