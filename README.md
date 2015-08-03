@@ -66,10 +66,14 @@ Verify the tests return the following:
 	$ vagrant halt && vagrant destroy
 
 ###References:###
-* https://www.udacity.com/course/viewer#!/c-nd004/l-3532028970/m-3631428767
 * http://bobby-tables.com
-* http://www.tutorialspoint.com/postgresql
-* http://www.postgresqltutorial.com
 * http://initd.org/psycopg/docs/
+* http://www.postgresqltutorial.com
 * www.postgresql.org
 * https://stackoverflow.com/questions/14880192/iterate-a-list-of-tuples
+* http://www.tutorialspoint.com/postgresql
+* https://www.udacity.com/course/viewer#!/c-nd004/l-3532028970/m-3631428767
+* https://www.virtualbox.org/wiki/Downloads
+* https://www.vagrantup.com/
+* http://www.wizards.com/dci/downloads/swiss_pairings.pdf
+* http://zetcode.com/db/postgresqlpythontutorial/
